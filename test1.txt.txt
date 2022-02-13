@@ -1,4 +1,2 @@
-ANIL MORE 
-AT.NALWIHIRA
-POST.HIVRA
-KABLI
+master file is update 
+to check refleted in test1.txt.txt
